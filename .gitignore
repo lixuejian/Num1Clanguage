@@ -74,3 +74,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.tlog
+*.log
+*.filters
+Num1Clanguage.vcxproj
+*.pdb
+Debug/vc120.idb
